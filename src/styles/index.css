@@ -1,11 +1,12 @@
 
 * {
-    background-color: rgb(238, 238, 238);
+    background-color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 h1 {
     text-align: center;
+    margin: 50px;
     color: pink;
 
 }
