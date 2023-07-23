@@ -51,7 +51,7 @@ const Home = () => {
 
 					</ul>
 					<div className="card-footer">
-						Items left
+						{taskList.length} Items left
 					</div>
 				</div>
 			</div>
